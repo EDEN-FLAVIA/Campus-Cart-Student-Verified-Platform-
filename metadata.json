@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CampusCart",
+  "description": "A premium peer-to-peer student marketplace where campus community members can sell, buy, or rent products with real-time verified-student chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
